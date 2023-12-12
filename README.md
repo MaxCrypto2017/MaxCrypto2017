@@ -68,8 +68,6 @@
 <div align="center">
 <!-- website -->
     <a href="https://discord.gg/CsvMPpGW"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>      
-    <a href="https://join.skype.com/invite/t8VO0RaRW6rq"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-0077B5?logo=Skype&logoColor=white"></a>
-    <a href="mailto:mjshine9341@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <div>
 <br/>
