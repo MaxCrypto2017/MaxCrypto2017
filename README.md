@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 
-<h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to Mike's profile!<img src="./Hi.gif" width="30px"></h1>
+<h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to my profile!<img src="./Hi.gif" width="30px"></h1>
    
    ## I am a experienced  AI Researcher, Machine Learning, ChatGPT & Blockchain  Developer
 
