@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to my profile!<img src="./Hi.gif" width="30px"></h1>
    
-   ##   A crypto-savvy project ninja and code wizard on the hunt for a mind-bending challenge in the wild world of crypto!
+   ##   A crypto ninja seeking a mind-bending challenge in the wild crypto world!
 
 ---
 
