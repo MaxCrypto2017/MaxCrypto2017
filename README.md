@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to my profile!<img src="./Hi.gif" width="30px"></h1>
    
-   ## I am a experienced  AI Researcher, Machine Learning, ChatGPT & Blockchain  Developer
+   ## A crypto ninja seeking a brainy challenge in the wild crypto world!
 
 ---
 
