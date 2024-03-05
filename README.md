@@ -6,22 +6,7 @@
 
 ---
 
-  * 🔭 I've designed and developed an AI algorithm for a healthcare application, resulting in a 25% improvement in accuracy and a 20% reduction in false positives.
-
-  - 🌱 Implemented a **machine learning model** to optimize customer segmentation for a retail company, leading to a 30% increase in targeted marketing campaign effectiveness.😎.
-
-  - 🚀 Managed code for company **chatbot** that improved response times by an average of 3.2 seconds per call.
-
-  - 🚩 Reduced costs by 40% using an **Ethereum smart contract** to automate supply chain management processes.
-
-  - 📚 I have reviewed more than **25+ Technical books for Packt, Manning and Springer nature**.
   
-  - 👯 I’m collaborator in `keras`, `tensorflow` and looking for more collaboration.
-  
-  - 🥅 2024 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.
-
-  - ⚡ Fun fact: I love to code, sing a song!
-
 ---
 
 
