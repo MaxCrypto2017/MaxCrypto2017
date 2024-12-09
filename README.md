@@ -3,6 +3,7 @@
 <h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to my profile!<img src="./Hi.gif" width="30px"></h1>
    
    ##   A crypto-savvy project ninja seeking a mind-bending challenge in the wild crypto world!
+<br/>   
 <div>
    -  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
