@@ -29,12 +29,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@MaxCrypto2017"><img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=MaxCrypto2017&theme=gotham&hide_border=true&layout=compact&langs_count=14&range=all_time" alt="@MaxCrypto's wakatime stats" /></a>
-  <a href="https://wakatime.com/@MaxCrypto2017"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxCrypto2017&langs_count=14&layout=compact&theme=gotham&range=all_time&hide_border=true" alt="@MaxCrypto's wakatime stats" /></a>
-</p>
 <br/>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MaxCrypto2017&&style=flat-square" align="center" />
