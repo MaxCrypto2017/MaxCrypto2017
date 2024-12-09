@@ -9,7 +9,7 @@
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/MaxCrypto_2017)** <br>
-   [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/8c/Telegram_logo.svg)](https://telegram.me/MaxCrypto_2017)
+   <a align='center' width='100%' href="https://app.turbotrade.tech">Please Click Here!</a> <br>
    - &nbsp;&nbsp;<img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
   <br />
 </div>
