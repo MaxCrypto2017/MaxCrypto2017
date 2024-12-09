@@ -12,6 +12,8 @@
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br />
 </div>
 
+Chat with me: Skype: live:.cid.3093c7c93c76ec46
+
 # 💻 My Activities
 <div style="display: flex; align-items: flex-start; align: center">
   
