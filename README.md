@@ -8,13 +8,11 @@
    -  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-   - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: <a align='center' width='100%' href="https://t.me/MaxCrypto_2017">Click here!</a>, 
+   - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: <a align='center' width='100%' href="https://t.me/MaxCrypto_2017">Telegram</a>, 
    <a href="https://join.skype.com/invite/t8VO0RaRW6rq" target="_blank" title="https://join.skype.com/invite/t8VO0RaRW6rq" style="text-decoration: underline; color: white;"> Skype </a> <br>
    - &nbsp;&nbsp;<img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
   <br />
 </div>
-<br/>
-⚡Chat with me: Skype: live:.cid.3093c7c93c76ec46
 
 # 💻 My Activities
 <div style="display: flex; align-items: flex-start; align: center">
