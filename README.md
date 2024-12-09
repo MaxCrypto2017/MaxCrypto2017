@@ -38,6 +38,23 @@ Chat with me: Skype: live:.cid.3093c7c93c76ec46
 </div>  
 
 
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "TypeScript", "Go", "Python", "Rust", "Java", "Ruby" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "MongoDB", "Sqlite", "Redis", "PostgreSQL" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
+
+
 <div align="center" >
 <a  href="https://github.com/MaxCrypto2017">
 
