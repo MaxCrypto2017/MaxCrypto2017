@@ -3,16 +3,14 @@
 <h1 align="center"><img src="./Hi.gif" width="30px"> Welcome to my profile!<img src="./Hi.gif" width="30px"></h1>
    
    ##   A crypto-savvy project ninja seeking a mind-bending challenge in the wild crypto world!
-
-<div>
+<br>
    -  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
    - <img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: <a align='center' width='100%' href="https://t.me/MaxCrypto_2017">Click here!</a> <br>
    - &nbsp;&nbsp;<img src="https://github.com/MaxCrypto2017/MaxCrypto2017/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
   <br />
-</div>
-<br/>
+
 <br/>
 ⚡Chat with me: Skype: live:.cid.3093c7c93c76ec46
 
