@@ -11,7 +11,8 @@
   Seeking a challenging role where I can utilize my skills and knowledge to drive innovation and success in the blockchain industry.<br />
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br />
 </div>
-
+<br/>
+<br/>
 Chat with me: Skype: live:.cid.3093c7c93c76ec46
 
 # 💻 My Activities
