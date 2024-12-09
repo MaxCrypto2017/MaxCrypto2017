@@ -5,6 +5,11 @@
    ##   A crypto-savvy project ninja seeking a mind-bending challenge in the wild crypto world!
 
 <div>
+   -  <img alt="GIF" src="https://github.com/venuswhispers/venuswhispers/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+   - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+   - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
+   - <img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/)**<br>
+   - &nbsp;&nbsp;<img src="https://github.com/venuswhispers/venuswhispers/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
   <br />
   - 🌱Dedicated blockchain full stack developer with extensive experience in designing and implementing complex blockchain solutions.<br />
   - 🔭 Proven track record of delivering high-quality, scalable applications that meet and exceed client expectations. 
