@@ -29,11 +29,8 @@ class About extends Me {
   };
 }
 ```
-  
-<hr></hr>
 
 <div align="center" >
-
 
 **Code Cycle**<br>
 
